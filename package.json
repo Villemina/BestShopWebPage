@@ -1,0 +1,17 @@
+{
+  "name": "bestshoppage",
+  "version": "1.0.0",
+  "description": "Html/CSS project of retail website",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "sass": "^1.64.1"
+  }
+}
